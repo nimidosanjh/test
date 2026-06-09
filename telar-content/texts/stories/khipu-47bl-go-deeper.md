@@ -7,4 +7,5 @@ The khipus of San Juan de Collata suggest evidence of narrative khipus. Instead 
    However, it is the very colorful nature of the Collata khipus that support a potential intelligible writing system. The Collata khipus are made from multiple different animal fibers, a material that makes its more colorful appearance possible. It is believed that these different animal fiber types and multiple colorful combinations reflect rebuses. Rebuses are symbols that represent the intended message because they sound similar. (For example, llama fibers reflects the similarities between “llama” and “se llaman”). The large amount of combinations of different animal fibers and colors creates more symbols than numerical khipus. 
 These many symbols suggest narrative khipus are logosyllabic, an intelligible writing system. 
 ![unknown](https://nimidosanjh.github.io/test/iiif/objects/unkno-2/unkno-2.jpg)
-
+Image: Photo showing cloth ribbons
+Source: Hyland 2017: Figure 3

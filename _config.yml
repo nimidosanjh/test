@@ -8,7 +8,7 @@ url: "https://nimidosanjh.github.io"
 baseurl: "/test"
 author: "Nimi Dosanjh"
 email: "nimidosanjh@icloud.com"
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "trama"
 logo: ""
 telar_language: en
 collection_mode: false
